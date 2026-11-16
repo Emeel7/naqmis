@@ -1,0 +1,122 @@
+[
+  {
+    "learner_id": 1,
+    "national_id": "29384710",
+    "first_name": "Amina",
+    "middle_name": "Wanjiku",
+    "last_name": "Njeri",
+    "date_of_birth": "1999-04-12",
+    "email": "amina@learner.demo",
+    "phone_number": "+254 722 000 001",
+    "created_at": "2024-08-01T08:00:00.000Z",
+    "updated_at": "2024-08-01T08:00:00.000Z"
+  },
+  {
+    "learner_id": 2,
+    "national_id": "30219455",
+    "first_name": "Kevin",
+    "middle_name": "Otieno",
+    "last_name": "Ochieng",
+    "date_of_birth": "1998-09-30",
+    "email": "kevin@learner.demo",
+    "phone_number": "+254 722 000 002",
+    "created_at": "2024-08-01T08:00:00.000Z",
+    "updated_at": "2024-08-01T08:00:00.000Z"
+  },
+  {
+    "learner_id": 3,
+    "national_id": "31002288",
+    "first_name": "Mercy",
+    "middle_name": "Chebet",
+    "last_name": "Rotich",
+    "date_of_birth": "2001-01-22",
+    "email": "mercy@learner.demo",
+    "phone_number": "+254 722 000 003",
+    "created_at": "2024-08-01T08:00:00.000Z",
+    "updated_at": "2024-08-01T08:00:00.000Z"
+  },
+  {
+    "learner_id": 4,
+    "national_id": "28877610",
+    "first_name": "Joseph",
+    "middle_name": "Mutua",
+    "last_name": "Musyoka",
+    "date_of_birth": "1996-07-08",
+    "email": "joseph.m@mail.demo",
+    "phone_number": "+254 722 000 004",
+    "created_at": "2024-08-01T08:00:00.000Z",
+    "updated_at": "2024-08-01T08:00:00.000Z"
+  },
+  {
+    "learner_id": 5,
+    "national_id": "32145009",
+    "first_name": "Linet",
+    "middle_name": "Akinyi",
+    "last_name": "Owino",
+    "date_of_birth": "2002-03-17",
+    "email": "linet.o@mail.demo",
+    "phone_number": "+254 722 000 005",
+    "created_at": "2024-08-01T08:00:00.000Z",
+    "updated_at": "2024-08-01T08:00:00.000Z"
+  },
+  {
+    "learner_id": 6,
+    "national_id": "29990341",
+    "first_name": "Brian",
+    "middle_name": "Kiprono",
+    "last_name": "Koech",
+    "date_of_birth": "1999-11-05",
+    "email": "brian.k@mail.demo",
+    "phone_number": "+254 722 000 006",
+    "created_at": "2024-08-01T08:00:00.000Z",
+    "updated_at": "2024-08-01T08:00:00.000Z"
+  },
+  {
+    "learner_id": 7,
+    "national_id": "30876523",
+    "first_name": "Fatuma",
+    "middle_name": null,
+    "last_name": "Hassan",
+    "date_of_birth": "2000-06-25",
+    "email": "fatuma.h@mail.demo",
+    "phone_number": "+254 722 000 007",
+    "created_at": "2024-08-01T08:00:00.000Z",
+    "updated_at": "2024-08-01T08:00:00.000Z"
+  },
+  {
+    "learner_id": 8,
+    "national_id": "27455912",
+    "first_name": "Ian",
+    "middle_name": "Mwangi",
+    "last_name": "Kariuki",
+    "date_of_birth": "1995-02-14",
+    "email": "ian.k@mail.demo",
+    "phone_number": "+254 722 000 008",
+    "created_at": "2024-08-01T08:00:00.000Z",
+    "updated_at": "2024-08-01T08:00:00.000Z"
+  },
+  {
+    "learner_id": 9,
+    "national_id": "31567804",
+    "first_name": "Naomi",
+    "middle_name": "Jeptoo",
+    "last_name": "Cheruiyot",
+    "date_of_birth": "2001-08-09",
+    "email": "naomi.c@mail.demo",
+    "phone_number": "+254 722 000 009",
+    "created_at": "2024-08-01T08:00:00.000Z",
+    "updated_at": "2024-08-01T08:00:00.000Z"
+  },
+  {
+    "learner_id": 10,
+    "national_id": "28123766",
+    "first_name": "Samson",
+    "middle_name": "Odera",
+    "last_name": "Juma",
+    "date_of_birth": "1997-12-01",
+    "email": "samson.j@mail.demo",
+    "phone_number": "+254 722 000 010",
+    "created_at": "2024-08-01T08:00:00.000Z",
+    "updated_at": "2024-08-01T08:00:00.000Z"
+  }
+]

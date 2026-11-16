@@ -1,0 +1,62 @@
+[
+  {
+    "knqf_level_id": 1,
+    "level_name": "Level 1 – Entry Level Certificate",
+    "min_credits": 10,
+    "description": "Illustrative description for KNQF Level 1 (Entry Level Certificate). Demo data only."
+  },
+  {
+    "knqf_level_id": 2,
+    "level_name": "Level 2 – Certificate I",
+    "min_credits": 20,
+    "description": "Illustrative description for KNQF Level 2 (Certificate I). Demo data only."
+  },
+  {
+    "knqf_level_id": 3,
+    "level_name": "Level 3 – Certificate II",
+    "min_credits": 40,
+    "description": "Illustrative description for KNQF Level 3 (Certificate II). Demo data only."
+  },
+  {
+    "knqf_level_id": 4,
+    "level_name": "Level 4 – Certificate III",
+    "min_credits": 60,
+    "description": "Illustrative description for KNQF Level 4 (Certificate III). Demo data only."
+  },
+  {
+    "knqf_level_id": 5,
+    "level_name": "Level 5 – Advanced Certificate",
+    "min_credits": 90,
+    "description": "Illustrative description for KNQF Level 5 (Advanced Certificate). Demo data only."
+  },
+  {
+    "knqf_level_id": 6,
+    "level_name": "Level 6 – Diploma",
+    "min_credits": 120,
+    "description": "Illustrative description for KNQF Level 6 (Diploma). Demo data only."
+  },
+  {
+    "knqf_level_id": 7,
+    "level_name": "Level 7 – Higher Diploma",
+    "min_credits": 150,
+    "description": "Illustrative description for KNQF Level 7 (Higher Diploma). Demo data only."
+  },
+  {
+    "knqf_level_id": 8,
+    "level_name": "Level 8 – Bachelor's Degree",
+    "min_credits": 360,
+    "description": "Illustrative description for KNQF Level 8 (Bachelor's Degree). Demo data only."
+  },
+  {
+    "knqf_level_id": 9,
+    "level_name": "Level 9 – Master's Degree",
+    "min_credits": 180,
+    "description": "Illustrative description for KNQF Level 9 (Master's Degree). Demo data only."
+  },
+  {
+    "knqf_level_id": 10,
+    "level_name": "Level 10 – Doctoral Degree",
+    "min_credits": 360,
+    "description": "Illustrative description for KNQF Level 10 (Doctoral Degree). Demo data only."
+  }
+]

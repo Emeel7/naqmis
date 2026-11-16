@@ -1,0 +1,98 @@
+[
+  {
+    "user_id": 1,
+    "qab_id": null,
+    "first_name": "Wanjiru",
+    "last_name": "Kamau",
+    "email": "reviewer@knqa.demo",
+    "role": "KNQA_Reviewer",
+    "phone_number": "+254 711 000 001",
+    "is_active": true,
+    "created_at": "2024-01-20T08:00:00.000Z",
+    "updated_at": "2024-01-20T08:00:00.000Z"
+  },
+  {
+    "user_id": 2,
+    "qab_id": null,
+    "first_name": "Peter",
+    "last_name": "Otieno",
+    "email": "auditor@knqa.demo",
+    "role": "KNQA_Auditor",
+    "phone_number": "+254 711 000 002",
+    "is_active": true,
+    "created_at": "2024-01-20T08:00:00.000Z",
+    "updated_at": "2024-01-20T08:00:00.000Z"
+  },
+  {
+    "user_id": 3,
+    "qab_id": 1,
+    "first_name": "Grace",
+    "last_name": "Mwangi",
+    "email": "admin@kit.demo",
+    "role": "QAB_Admin",
+    "phone_number": "+254 711 000 003",
+    "is_active": true,
+    "created_at": "2024-01-20T08:00:00.000Z",
+    "updated_at": "2024-01-20T08:00:00.000Z"
+  },
+  {
+    "user_id": 4,
+    "qab_id": 2,
+    "first_name": "Samuel",
+    "last_name": "Kiptoo",
+    "email": "submitter@rvp.demo",
+    "role": "QAB_Submitter",
+    "phone_number": "+254 711 000 004",
+    "is_active": true,
+    "created_at": "2024-01-20T08:00:00.000Z",
+    "updated_at": "2024-01-20T08:00:00.000Z"
+  },
+  {
+    "user_id": 5,
+    "qab_id": 3,
+    "first_name": "Achieng",
+    "last_name": "Odhiambo",
+    "email": "admin@lua.demo",
+    "role": "QAB_Admin",
+    "phone_number": "+254 711 000 005",
+    "is_active": true,
+    "created_at": "2024-01-20T08:00:00.000Z",
+    "updated_at": "2024-01-20T08:00:00.000Z"
+  },
+  {
+    "user_id": 6,
+    "qab_id": 4,
+    "first_name": "Hassan",
+    "last_name": "Abdi",
+    "email": "submitter@eapsb.demo",
+    "role": "QAB_Submitter",
+    "phone_number": "+254 711 000 006",
+    "is_active": true,
+    "created_at": "2024-01-20T08:00:00.000Z",
+    "updated_at": "2024-01-20T08:00:00.000Z"
+  },
+  {
+    "user_id": 7,
+    "qab_id": 5,
+    "first_name": "Faith",
+    "last_name": "Mutiso",
+    "email": "submitter@chc.demo",
+    "role": "QAB_Submitter",
+    "phone_number": "+254 711 000 007",
+    "is_active": true,
+    "created_at": "2024-01-20T08:00:00.000Z",
+    "updated_at": "2024-01-20T08:00:00.000Z"
+  },
+  {
+    "user_id": 8,
+    "qab_id": 6,
+    "first_name": "Brian",
+    "last_name": "Kemboi",
+    "email": "submitter@hac.demo",
+    "role": "QAB_Submitter",
+    "phone_number": "+254 711 000 008",
+    "is_active": true,
+    "created_at": "2024-01-20T08:00:00.000Z",
+    "updated_at": "2024-01-20T08:00:00.000Z"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "nqd_id": 1,
+    "learner_qual_id": 1,
+    "initiated_by_user_id": 6,
+    "transfer_date": "2026-05-30T12:00:00.000Z",
+    "status": "Acknowledged",
+    "external_nqd_ref": "NQD-REF-100001",
+    "payload_snapshot": {
+      "certificate_number": "DEMO-NQ-2026-0001",
+      "learner_id": 1,
+      "qualification_id": 12,
+      "graduation_date": "2026-05-30"
+    },
+    "error_message": null
+  },
+  {
+    "nqd_id": 2,
+    "learner_qual_id": 4,
+    "initiated_by_user_id": 4,
+    "transfer_date": "2026-03-14T12:00:00.000Z",
+    "status": "Acknowledged",
+    "external_nqd_ref": "NQD-REF-100002",
+    "payload_snapshot": {
+      "certificate_number": "DEMO-NQ-2026-0002",
+      "learner_id": 2,
+      "qualification_id": 5,
+      "graduation_date": "2026-03-14"
+    },
+    "error_message": null
+  },
+  {
+    "nqd_id": 3,
+    "learner_qual_id": 8,
+    "initiated_by_user_id": 6,
+    "transfer_date": "2026-02-20T12:00:00.000Z",
+    "status": "Transferred",
+    "external_nqd_ref": "NQD-REF-100003",
+    "payload_snapshot": {
+      "certificate_number": "DEMO-NQ-2026-0003",
+      "learner_id": 4,
+      "qualification_id": 13,
+      "graduation_date": "2026-02-20"
+    },
+    "error_message": null
+  },
+  {
+    "nqd_id": 4,
+    "learner_qual_id": 12,
+    "initiated_by_user_id": 4,
+    "transfer_date": "2026-04-10T12:00:00.000Z",
+    "status": "Failed",
+    "external_nqd_ref": null,
+    "payload_snapshot": {
+      "certificate_number": "DEMO-NQ-2026-0004",
+      "learner_id": 6,
+      "qualification_id": 6,
+      "graduation_date": "2026-04-10"
+    },
+    "error_message": "NQD gateway timeout (demo data)."
+  },
+  {
+    "nqd_id": 5,
+    "learner_qual_id": 16,
+    "initiated_by_user_id": 8,
+    "transfer_date": "2025-09-12T12:00:00.000Z",
+    "status": "Queued",
+    "external_nqd_ref": null,
+    "payload_snapshot": {
+      "certificate_number": "DEMO-NQ-2025-0005",
+      "learner_id": 8,
+      "qualification_id": 15,
+      "graduation_date": "2025-09-12"
+    },
+    "error_message": null
+  }
+]
